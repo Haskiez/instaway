@@ -1,0 +1,13 @@
+.container {
+    margin-top: 60px;
+}
+
+.header-with-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.the-buttons {
+    margin-bottom: .5em;
+}
